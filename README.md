@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;I%27m+Shahnawaz+Ali+%F0%9F%98%80;I%27m+a+software+developer+%E2%9C%A8)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Shahnawaz+Ali+%F0%9F%98%80;I'm+a+software+developer+%E2%9C%A8)](https://git.io/typing-svg)
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
