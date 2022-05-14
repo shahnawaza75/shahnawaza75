@@ -10,7 +10,7 @@
 
 - 👨🏾‍💻 I’m currently learning _JavaScript, React_
 
-- 📫 How to reach me **adekunletaiwo43@yahoo.com**
+- 📫 How to reach me **shahnawaza75@gmail.com**
 
 - ⚡ Fact: "Learning how to code is slowly becoming like learning how to write."
 
