@@ -3,6 +3,7 @@
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
 - 👨🏾‍💻 I’m currently learning _JavaScript, React_
+- I'm open for upcoming oppertuinites.
 
 - 📫 How to reach me **shahnawaza75@gmail.com**
 
